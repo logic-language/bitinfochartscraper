@@ -11,6 +11,6 @@ Scrapes bitinfocharts data into csv files
 
 # TODO
 - [x] remove the 'null' from CSV's as they are being saved
-- [] add a 'start date' to return only results from that date onwards
-- [] make the html response --> pandas df result extraction function more efficient
-- [] use nbdev to build script that can be auto run once a day to get the latest numbers and add it to datastore
+- [ ] add a 'start date' to return only results from that date onwards
+- [ ] make the html response --> pandas df result extraction function more efficient
+- [ ] use nbdev to build script that can be auto run once a day to get the latest numbers and add it to datastore
